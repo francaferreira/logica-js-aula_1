@@ -20,24 +20,21 @@ Aprender a declarar variáveis usando var, let e const.
 
 #### Exemplo:
 
-javascript
-var nome = "Lua";
-let idade = 25;
-const saldoDisponivel = 1000;
+
+<img src="https://github.com/user-attachments/assets/f98ba676-c9a9-4ded-acd4-7f33e3d6a890" width="300px" />
 
 #### Prompts
 Como usar o prompt() para obter informações do usuário.
 
 #### Exemplo:
 
-javascript
-var usuarioNome = prompt("Qual é o seu nome?");
+
+<img src="https://github.com/user-attachments/assets/76e590b2-6bc7-4bf3-9389-63228a30f942" width="300px" />
 
 #### Condicionais
 Utilização de estruturas condicionais if e else.
 
 #### Exemplo:
 
-javascript
-if (idade >= 18) {
+<img src="https://github.com/user-attachments/assets/c9639063-6a8d-4e3f-ad02-1188ea2c3e3a" width="300px" />
     
